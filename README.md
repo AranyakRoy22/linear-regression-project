@@ -93,6 +93,8 @@ The dataset contains ten baseline medical measurements for 442 patients and a qu
 
 Possible extensions include comparing regularized models such as Ridge and Lasso, adding cross-validation, and tuning the train/test split.
 
-## License
+## Usage Rights
 
-This project is available under the MIT License.
+This project is not distributed under an open-source license.
+
+© 2026 Aranyak Roy. All rights reserved.
